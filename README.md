@@ -15,3 +15,6 @@ Ein Dampfroboter, der automatisch Spiele an Freunde sendet
 친구에게 자동으로 게임을 보내는 스팀 로봇
 
 Un robot de vapor que envía juegos automáticamente a amigos
+
+
+email:hobo@haidaoteam.com
